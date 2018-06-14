@@ -26,7 +26,6 @@ li {
   text-decoration: none;
   list-style-type: none;
   display: block;
-  float: left;
 }
 
 @keyframes App-logo-spin {

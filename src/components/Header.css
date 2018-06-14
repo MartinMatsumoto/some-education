@@ -1,0 +1,59 @@
+.header {
+    height: 110px;
+    width: 100%;
+}
+
+.header_container {
+    margin: 0 auto;
+    height: 110px;
+    width: 1024px;
+}
+
+.header .logo_container {
+    float: left;
+}
+
+.header .logo {
+    width: 42px;
+    height: 84px;
+    float: left;
+}
+
+.header .logo_text_container {
+    float: left;
+}
+
+.header .logo_name {
+    font-family: 微软雅黑;
+    font-size: 40px;
+    color: rgb(54, 185, 107);
+}
+
+.header .logo_en_name {
+    font-family: Arial Black;
+    color: rgb(255, 215, 66);
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.header ul {
+    float: right;
+    color: white;
+    margin: 40px 0 0 0;
+}
+
+.header li {
+    width: 95px;
+    height: 40px;
+    text-align: center;
+    float: left;
+    font-size: 14px;
+    font-family: Microsoft YaHei;
+    font-weight: normal;
+    cursor: pointer;
+    color: black;
+}
+
+.header li:hover {
+    color: #36b96b;
+}
